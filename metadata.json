@@ -1,0 +1,8 @@
+{
+  "name": "MAGNET Pharmacy & Medical Store",
+  "description": "Your trusted pharmacy for everyday healthcare, medicine enquiries, prescriptions, and pilgrimage travel medicine support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
